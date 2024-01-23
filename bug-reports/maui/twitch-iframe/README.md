@@ -1,3 +1,5 @@
+Bug report: https://github.com/dotnet/maui/issues/20091
+
 When embedding a Twitch `iframe` as described in https://dev.twitch.tv/docs/embed/video-and-clips/ the following will work in a Blazor Web App but does not work in a MAUI Blazor Hybrid app:
 
 ```
