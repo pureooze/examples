@@ -14,3 +14,7 @@ Refused to frame 'https://player.twitch.tv/' because an ancestor violates the fo
 ```
 
 The `IframeTestMAUIBlazorHybridApp` project demonstrates this error and the `BlazorIframeTest` project demonstrates this working in Blazor.
+
+See the following components for the actual iframe code:
+* [IframeTestMAUIBlazorHybridApp](https://github.com/pureooze/examples/blob/main/bug-reports/maui/twitch-iframe/IframeTestMAUIBlazorHybridApp/IframeTestMAUIBlazorHybridApp/Components/Pages/Home.razor)
+* [BlazorIframeTest](https://github.com/pureooze/examples/blob/main/bug-reports/maui/twitch-iframe/BlazorIframeTest/BlazorIframeTest/Components/Pages/Home.razor)
